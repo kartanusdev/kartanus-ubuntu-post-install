@@ -29,13 +29,13 @@ items:
   - theme: 3024.dark
 
 font:
-  size: 10
+  size: 12
   normal:
-    family: 'CaskaydiaCove NF'
-    style: 'Book'
+    family: 'JetBrainsMono Nerd Font'
+    style: 'medium'
   bold:
-    family: 'CaskaydiaCove NF'
-
+    family: 'JetBrainsMono Nerd Font'
+    style: 'extra bold'
 colors:
   # Default colors
   primary:
