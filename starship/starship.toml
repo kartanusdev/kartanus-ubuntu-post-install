@@ -42,7 +42,6 @@ show_always = true
 commit_hash_length = 10
 tag_symbol = "🔖 "
 
-
 [git_branch]
 symbol = "🌱 "
 format="[$symbol$branch]($style) "
