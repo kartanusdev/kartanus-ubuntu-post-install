@@ -83,6 +83,7 @@ chsh -s $(which zsh)
 grep zsh /etc/passwd
 # starship (put y)
 sudo curl -sS https://starship.rs/install.sh | sh
+mv ~/kartanus-ubuntu-post-install/starship/starship.toml ~/.config
 # ranger
 sudo apt install ranger -y
 git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
